@@ -1,0 +1,74 @@
+resolutions|anti-patriot act|nn
+adopted|resolutions|obj
+states|five|nn
+adopted|states|in
+states|and|punc
+communities|375|num
+states|communities|conj
+adopted|while|mod
+while|debated|comp1
+debated|congress|subj
+debated|making|mod
+making|congress|subj
+provisions|patriot act|nn
+making|provisions|obj1
+making|permanent|desc
+was|there|mod-before
+support|strong|mod
+support|bipartisan|mod
+was|support|pred
+support|retaining|for
+provisions|"|punc
+provisions|sunset|mod
+provisions|"|punc
+retaining|provisions|obj
+provisions|ensure|rel
+ensure|provision|subj
+critics|justice department|nn
+critics|accountability|nn
+act|patriot|nn
+critics|act|of
+ensure|sought|fc
+sought|critics|subj
+sought|changes|obj
+changes|limit|rel
+limit|change|subj
+limit|act|obj
+act|ways|in
+limit|including|mod
+suspects|informing|nn
+including|suspects|obj
+of|"|punc
+suspects|sneak|of
+sneak|and|punc
+searches|peek|nn
+searches|"|punc
+sneak|searches|conj
+days|7|amount-value
+searches|days|within
+including|unless|mod
+unless|intervened|comp1
+intervened|judge|subj
+senate intelligence committee|met|vrel
+met|senate intelligence committee|obj
+doors|closed|mod
+met|doors|behind
+doors|consider|rel
+consider|door|subj
+bill|draft|nn
+consider|bill|obj1
+bill|that|whn
+escalate|bill|subj
+powers|government|nn
+powers|police|nn
+escalate|powers|obj
+consider|bill|obj2
+viewed|senate intelligence committee|obj
+maneuver|republican|mod
+viewed|maneuver|as
+maneuver|shift|rel
+shift|maneuver|subj
+shift|arguments|obj
+arguments|expanding|to
+act|patriot|nn
+expanding|act|obj

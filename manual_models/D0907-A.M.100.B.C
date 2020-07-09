@@ -1,0 +1,62 @@
+scholar|constitutional|mod
+is|scholar|pred
+scholar|and|punc
+professor|law|nn
+scholar|professor|conj
+berkeley|uc|nn
+professor|berkeley|at
+writer|prolific|mod
+is|writer|pred
+contributor|regular|mod
+contributor|opinion|to
+pages|contributor|subj
+newspapers|major|mod
+pages|newspapers|of
+lawyer|justice department|nn
+newspapers|lawyer|as
+pages|from 2001 to 2003|mod
+yoo|helped|vrel
+write|yoo|subj
+write|series|obj
+memos|controversial|mod
+series|memos|of
+memos|white house|to
+white house|following|rel
+following|white house|subj
+memo|9/11|nn
+memo|attacks|nn
+memo|one|nn
+following|memo|obj
+concluded|yoo|subj
+concluded|that|c
+has|president|subj
+has|authority|obj
+war|wage|nn
+war|preemptive|mod
+authority|war|to
+war|advised|rel
+advised|another|subj
+advised|that|c
+convention|geneva|nn
+does|not|neg
+apply|war|obj
+apply|convention|subj
+apply|al-qaida|to
+al-qaida|and|punc
+terror|taliban|nn
+terror|non-state|mod
+al-qaida|terror|conj
+yoo|organizations|nn
+terror|believes|rel
+believes|yoo|subj
+should|not|neg
+believes|divulge|fc
+divulge|terror|obj
+divulge|us|subj
+methods|interrogation|nn
+methods|short|pnmod
+short|torture|of
+use|methods|obj
+use|it|subj
+suspects|terror|nn
+use|suspects|with

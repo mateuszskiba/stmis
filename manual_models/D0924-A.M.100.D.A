@@ -1,0 +1,60 @@
+& co.|merck|nn
+withdrew|& co.|subj
+vioxx|its|gen
+vioxx|arthritis|nn
+vioxx|drug|nn
+withdrew|vioxx|obj
+vioxx|market|from
+market|2004|in
+market|trial|after
+trial|showed|vrel
+showed|trial|obj
+showed|increased|fc
+increased|it|subj
+attacks|heart|nn
+increased|attacks|obj
+merck|strokes|nn
+income|merck|gen
+income|net|nn
+plunged|income|subj
+plunged|29%|obj
+29%|announcement|after
+european medicines agency|and|punc
+food and drug administration|us|nn
+european medicines agency|food and drug administration|conj
+announcement|announced|comp1
+announced|european medicines agency|subj
+announced|review|fc
+review|they|subj
+review|all|guest
+inhibitors|cox-2|nn
+review|inhibitors|obj
+inhibitors|see|rel
+see|inhibitor|subj
+see|if|c
+was|class|pred
+hundreds|effect|nn
+thousands|lawsuits|of
+were|likely|pred
+filed|merck|against
+said|lawyers|subj
+said|including|mod
+including|lawyer|subj
+lawsuits|class|nn
+lawsuits|action|nn
+including|lawsuits|obj
+claiming|all|amod
+injury|taking|from
+cases|vioxx plaintiffs|gen
+taking|cases|obj
+claiming|strengthened|fc
+strengthened|injury|obj
+strengthened|when|wha
+was|uncovered|pred
+knew|merck|subj
+risk|vioxx|gen
+knew|risk|about
+knew|but|punc
+knew|discounted|conj
+discounted|merck|subj
+discounted|it|obj

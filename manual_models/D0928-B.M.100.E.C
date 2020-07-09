@@ -1,0 +1,60 @@
+case|prosecution|gen
+questioned|case|in
+executives|former|mod
+executives|tyco|nn
+questioned|executives|obj
+questioned|sometimes|mod
+sometimes|days|for
+knowledge|their|gen
+questioned|knowledge|about
+knowledge|or|punc
+knowledge|lack|conj
+questioned|thereof|mod
+thereof|loans|about
+paid|bonuses|subj
+paid|dennis kozlowski|to
+dennis kozlowski|april 27|on
+took|he|subj
+took|stand|obj
+defense|his|gen
+stand|defense|in
+defense|denied|rel
+denied|defense|obj
+denied|he|subj
+denied|abusing|mod
+abusing|he|subj
+loans|company|nn
+abusing|loans|obj
+loans|and|punc
+loans|bonuses|conj
+leader|compensation|nn
+leader|committee|nn
+admit|he|subj
+admit|to|guest
+omitting|forgetfully|amod
+omitting|he|subj
+omitting|$25 million|obj
+admit|bonus|obj
+bonus|that|whn
+did|not|neg
+appear|bonus|subj
+-examination|his|gen
+-examination|1999|num
+-examination|tax return|nn
+appear|-examination|on
+-examination|which|whn
+began|-examination|subj
+began|april 28|on
+contentious|decidedly|mod
+day|third|post
+contentious|day|by
+day|maintained|rel
+maintained|kozlowski|subj
+innocence|his|gen
+maintained|innocence|obj
+maintained|and|punc
+maintained|defended|conj
+defended|kozlowski|subj
+spending|his|gen
+spending|lavish|mod
+defended|spending|obj

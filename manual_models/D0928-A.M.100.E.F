@@ -1,0 +1,71 @@
+trial|first|post
+trial|unfocused|mod
+trial|lengthy|mod
+executives|tyco|nn
+trial|executives|of
+executives|kozlowski|person
+executives|and|punc
+executives|swartz|conj
+swartz|stealing|for
+stealing|$600 million|obj
+$600 million|tyco|from
+aborted|trial|obj
+intimidation|juror|nn
+aborted|intimidation|after
+intimidation|ruled|rel
+ruled|intimidation|obj
+ruled|judge|subj
+claim|behalf|on
+behalf|tyco|of
+barred|claim|obj
+law|bermuda|nn
+barred|law|under
+barred|but|punc
+barred|allowed|conj
+allowed|claim|subj
+allowed|class|obj1
+lawsuit|action|nn
+allowed|lawsuit|obj2
+shareholders|tyco|nn
+lawsuit|shareholders|by
+shareholders|refused|rel
+refused|shareholders|obj
+refused|he|subj
+refused|separate|mod
+separate|he|subj
+cases|two|nn
+cases|men 's|nn
+separate|cases|obj
+cases|or|punc
+cases|allegations|conj
+fraud|accounting|nn
+allegations|fraud|of
+fraud|and|punc
+in|looting|nn
+fraud|in|conj
+concentrating on|prosecutors|subj
+concentrating on|accusations|obj
+accusations|that|c
+hid|men|subj
+bonuses|unauthorized|mod
+hid|bonuses|obj
+forgave|secretly|amod
+hid|forgave|conj
+forgave|men|subj
+forgave|loans|obj
+loans|themselves|to
+forgave|and|punc
+forgave|lied|conj
+lied|men|subj
+finances|tyco|gen
+lied|finances|about
+finances|inflate|rel
+inflate|finance|subj
+inflate|stock|obj
+inflate|before|mod
+selling|it|obj
+before|trying|comp1
+trying|defense|subj
+trying|discredit|fc
+discredit|defense|subj
+discredit|board of directors|obj

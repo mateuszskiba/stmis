@@ -1,0 +1,61 @@
+hearing|arguments|obj
+justices|supreme court|nn
+grapple|justices|subj
+grapple|standard|for
+standard|which|whn
+keep|standard|subj
+keep|government|obj
+government|endorsing|from
+endorsing|justice|subj
+endorsing|religion|obj
+religion|eradicating|without
+ties|america|gen
+ties|historical|mod
+historical|and|punc
+historical|cultural|conj
+eradicating|ties|obj
+ties|religion|to
+religion|june 27|on
+ruled|court|subj
+ruled|that|c
+displaying|court|subj
+displaying|ten commandments|obj
+ten commandments|government|on
+does|not|neg
+violate|necessarily|amod
+violate|property|subj
+principle|constitutional|mod
+violate|principle|obj
+principle|separation|of
+separation|church|between
+church|and|punc
+church|state|conj
+state|ruled|rel
+ruled|they|subj
+ruled|that|c
+displayed|state|obj
+displayed|monument|subj
+capitol|texas|nn
+displayed|capitol|at
+capitol|one|appo
+one|thousands|of
+thousands|donated|vrel
+donated|thousands|obj
+donated|country|across
+donated|and|punc
+donated|displayed|conj
+displayed|thousands|obj
+sculptures|16|num
+sculptures|other|mod
+sculptures|secular|mod
+displayed|sculptures|along with
+was|proper|pred
+ruled|they|subj
+ruled|that|c
+displays|courthouse|nn
+displays|kentucky|in
+religious|overtly|mod
+were|religious|pred
+religious|and|punc
+impermissible|therefore|mod
+religious|impermissible|conj

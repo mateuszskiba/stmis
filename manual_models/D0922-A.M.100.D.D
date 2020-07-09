@@ -1,0 +1,72 @@
+congress|911|num
+weeks|congress|after
+passed|weeks|subj
+act|usa|nn
+act|patriot|nn
+passed|act|obj1
+act|expanded|rel
+expanded|act|obj
+expanded|act|subj
+officials|federal|mod
+officials|law enforcement|nn
+passed|officials|obj2
+surveillance|and|punc
+power|prosecution|nn
+surveillance|power|conj
+elements|suspected|mod
+elements|terrorists|nn
+elements|key|mod
+power|elements|against
+elements|act|of
+were|expire|pred
+expire|end|at
+end|2005|of
+2005|had|rel
+had|2005|obj
+had|congress|subj
+had|decide|mod
+decide|congress|subj
+decide|whether|c
+renew|congress|subj
+renew|them|obj
+administration|bush|nn
+argued|administration|subj
+kept|act|subj
+safe|america|nn
+kept|safe|obj
+kept|and|punc
+kept|sought|conj
+sought|act|subj
+sought|retain|fc
+retain|act|subj
+retain|all|guest
+opponents|elements|nn
+retain|opponents|obj
+argued|argued|fc
+argued|fin|subj
+argued|that|c
+undermined|act|subj
+undermined|freedom|obj
+undermined|and|punc
+undermined|gave|conj
+gave|act|subj
+power|federal government|nn
+power|too much|mod
+gave|power|obj
+groups|opposed|vrel
+opposed|groups|obj
+opposed|renewal|to
+renewal|act|of
+formed|groups|subj
+formed|coalition|obj
+coalition|patriots|conj
+patriots|restore checks|to
+restore checks|and|punc
+restore checks|balances|conj
+formed|lobby|mod
+lobby|group|subj
+lobby|congress|obj
+congress|repeal|rel
+repeal|congress|subj
+provisions|key|mod
+repeal|provisions|obj

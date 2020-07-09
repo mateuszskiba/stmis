@@ -1,0 +1,62 @@
+explosion|massive|mod
+explosion|taba|at
+killed|explosion|subj
+30|at least|num-mod
+killed|30|obj
+100|injured|mod
+100|more than|num-mod
+attack|terrorist|mod
+100|attack|in
+attack|aimed|vrel
+aimed|attack|obj
+israel|israeli|mod
+israel|tourists|nn
+aimed|israel|at
+blamed|100|subj
+blamed|al-qaida|obj
+group|called|vrel
+called|group|obj1
+called|"|punc
+called|islamic unity brigades|desc
+claimed|"|punc
+claimed|group|subj
+officials|responsibility|nn
+officials|israeli|mod
+claimed|speculated|fc
+speculated|officials|subj
+speculated|that|c
+finding|militants|subj
+finding|it|obj1
+finding|difficult|desc
+finding|attack|mod
+attack|militant|subj
+attack|israelis|obj
+israelis|israel|in
+finding|and|punc
+finding|choosing|conj
+choosing|militants|subj
+choosing|attack|mod
+attack|militant|subj
+attack|them|obj
+attack|abroad|mod
+intended|also|guest
+damage|attacks|subj
+damage|egypt|obj
+blasts|tourism|nn
+blasts|industry|nn
+blasts|two|nn
+succession|quick|mod
+blasts|succession|in
+collapsed|blasts|subj
+wing|ten|nn
+wing|story|nn
+collapsed|wing|obj
+hotel|luxury|mod
+hotel|taba hilton|nn
+wing|hotel|of
+100|more than|num-mod
+workers|100|nn
+workers|rescue|nn
+enter|workers|subj
+area|damaged|mod
+enter|area|obj

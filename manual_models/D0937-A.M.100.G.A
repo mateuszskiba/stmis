@@ -1,0 +1,63 @@
+president|dick cheney|person
+did|not|neg
+have|president|subj
+license|valid|mod
+license|hunting|nn
+have|license|obj
+have|when|wha
+shot|he|subj
+shot|harry whittington|obj
+harry whittington|february 2006|in
+february 2006|added|rel
+added|february 2006|obj
+added|this|subj
+added|uproar|to
+uproar|caused|vrel
+caused|uproar|obj
+caused|by|by-subj
+caused|shooting|by
+by|and|punc
+by|by|conj
+staff|cheney|gen
+by|staff|by
+staff|delaying|rel
+delaying|staff|subj
+delaying|report|obj
+report|incident|of
+hours|20|amount-value
+cheney|hours|nn
+sprayed|accidentally|amod
+delaying|sprayed|mod
+sprayed|cheney|subj
+sprayed|whittington|obj
+shot|bird|nn
+whittington|shot|with
+shot|face|in
+face|neck|conj
+neck|and|punc
+neck|chest|conj
+sprayed|while|mod
+while|hunted|comp1
+hunted|they|subj
+hunted|ranch|on
+texas whittington|south|mod
+ranch|texas whittington|in
+lawyer|prominent|mod
+78|lawyer|appo
+treated|78|obj
+treated|scene|on
+detail|cheney|gen
+detail|medical|mod
+scene|detail|by
+treated|before|mod
+taken|by|by-subj
+taken|helicopter|by
+hospital|corpus christi|nn
+helicopter|hospital|to
+before|was|comp1
+was|in|pred
+condition|stable|mod
+was|condition|in
+day|next|post
+condition|was|comp1
+was|apologetic|pred

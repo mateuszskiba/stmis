@@ -1,0 +1,62 @@
+minister|norwegian|mod
+arrived|minister|subj
+arrived|sri lanka|in
+sri lanka|10 november|on
+10 november|promote|rel
+promote|10 november|subj
+process|peace|nn
+promote|process|obj
+process|said|rel
+said|process|obj
+said|he|subj
+did|not|neg
+have|he|subj
+have|"|punc
+expectations|high|mod
+have|expectations|obj
+was|"|punc
+was|important|pred
+was|keep|mod
+keep|it|subj
+said|engaging|mod
+engaging|fin|subj
+engaging|with|guest
+engaging|parties|with
+engaging|"|punc
+envoy|japan|gen
+envoy|peace|nn
+engaging|envoy|obj
+envoy|met|vrel
+met|envoy|obj
+officials|key|mod
+officials|government|nn
+met|officials|with
+officials|and|punc
+leaders|rebel|mod
+officials|leaders|conj
+leaders|demanded|rel
+demanded|leaders|obj
+demanded|tamil tigers|subj
+government|and|punc
+partners|all|pre
+partners|coalition|nn
+government|partners|conj
+unified|government|obj
+supporting|government|subj
+process|peace|nn
+supporting|process|obj
+supporting|and|punc
+supporting|added|conj
+added|government|subj
+added|that|c
+were|ready|pred
+were|resume|mod
+resume|they|subj
+talks|peace|nn
+resume|talks|obj
+resume|if|c
+responded|government|subj
+responded|positively|mod
+proposal|their|gen
+positively|proposal|to
+proposal|self-rule|for

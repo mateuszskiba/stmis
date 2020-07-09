@@ -1,0 +1,69 @@
+president|pakistan|gen
+president|musharraf|person
+president|and|punc
+president|india|conj
+singh|prime minister|title
+'s|singh|pred
+singh|met|vrel
+met|singh|obj
+talks|new delhi|in
+musharraf|april 2005|nn
+new delhi|musharraf|in
+met|pronounced|mod
+pronounced|talks|subj
+process|peace|nn
+pronounced|process|obj
+process|begun|vrel
+begun|process|obj
+begun|january 2004|in
+as|"|punc
+india|irreversible|mod
+india|"|punc
+india|and|punc
+india|pakistan|conj
+as|agreed|comp1
+agreed|india|subj
+agreed|open|fc
+open|india|subj
+branches|bank|nn
+open|branches|obj1
+rose|each other|gen
+rose|countries|nn
+rose|trade|mod
+branches|rose|in
+rose|$600 million|to
+$600 million|2005|in
+branches|and|punc
+branches|they|conj
+improvement|pledged|mod
+open|improvement|obj2
+improvement|air|in
+air|and|punc
+services|shipping|nn
+air|services|conj
+agreed|also|mod-before
+services|agreed|rel
+agreed|they|subj
+agreed|notify|fc
+notify|services|obj
+notify|they|subj
+each other|advance|in
+singh|ballistic missile|nn
+singh|tests|nn
+singh|prime minister|title
+advance|singh|of
+notify|invited|fc
+invited|each other|subj
+separatists|kashmir|gen
+invited|separatists|obj
+talks|peace|nn
+separatists|talks|for
+move|critical|mod
+process|peace|nn
+pushing forward|process|obj
+excluded|previously|guest
+excluded|they|obj
+excluded|talks|from
+talks|india|between
+india|and|punc
+india|pakistan|conj

@@ -1,0 +1,56 @@
+announced|u.s. energy department|subj
+project|experimental|mod
+project|carbon|nn
+project|sequestration|nn
+co2|successful|mod
+been|co2|pred
+co2|coal|from
+coal|burning|rel
+burning|coal|subj
+burning|plant|obj
+coal|north dakota|in
+announced|pumped|fc
+pumped|fin|obj
+pumped|oilfield|to
+oilfield|canada|in
+removed|test|subj
+tons|five million|amount-value
+removed|tons|obj
+tons|co2 subsidiaries|of
+co2 subsidiaries|bp|of
+bp|and|punc
+bp|edison international|conj
+edison international|planned|vrel
+planned|edison international|obj
+planned|build|mod
+build|test|subj
+power plant|$1 billion|nn
+build|power plant|obj
+power plant|california|in
+california|that|whn
+capture|california|subj
+capture|90%|obj
+90%|carbon dioxide|of
+carbon dioxide|produced|vrel
+produced|carbon dioxide|obj
+produced|and|punc
+produced|pump|conj
+pump|carbon dioxide|subj
+pump|it|obj
+pump|oilfield|into
+companies|oil|nn
+announced|statoil asa and royal dutch shell plc|subj
+announced|plans|obj
+plants|similar|mod
+plans|plants|for
+plant|pilot|mod
+plant|energy|nn
+plant|denmark|in
+denmark|using|rel
+using|denmark|subj
+technology|similar|mod
+using|technology|obj
+scheduled|plant|obj
+scheduled|start|mod
+start|plant|subj
+start|march 2006|in

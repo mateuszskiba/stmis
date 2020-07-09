@@ -1,0 +1,66 @@
+'s|announcement|pred
+'s|april 5 , 2005 ,|mod
+had|he|subj
+cancer|lung|nn
+had|cancer|obj
+colleagues|his|gen
+news|abc|nn
+colleagues|news|at
+cancer|saddened|rel
+saddened|colleagues|subj
+had|and|punc
+had|dismayed|conj
+dismayed|he|obj
+dismayed|been|fc
+been|"|punc
+anchorman|world news tonight|nn
+anchorman|"|punc
+been|anchorman|pred
+anchorman|1983|since
+anchorman|end|by
+end|week|of
+received|abc|subj
+e -|3,400|subj
+e -|offering|guest
+offering|3,400|subj
+offering|him|obj
+e -|prayers|obj1
+prayers|and|punc
+wishes|good|mod
+prayers|wishes|conj
+smoker|former|mod
+smoker|heavy|mod
+e -|smoker|obj2
+been|not|amod
+been|well|guest
+been|for|pred
+been|time|for
+been|and|punc
+been|was|conj
+was|unable|pred
+unable|travel|fc
+travel|jennings|subj
+travel|abroad|mod
+travel|cover|mod
+events|foreign|mod
+cover|events|obj
+cover|however|mod
+diagnosis|his|gen
+came|diagnosis|subj
+came|surprise|as
+surprise|him|to
+surprise|announced|rel
+announced|abc|subj
+announced|that|c
+continue|surprise|obj
+continue|jennings|subj
+continue|anchor|mod
+anchor|jennings|subj
+anchor|news|obj
+treatment|chemotherapy|nn
+news|treatment|during
+was|unable|pred
+unable|do|fc
+do|surprise|obj
+do|he|subj
+do|so|mod

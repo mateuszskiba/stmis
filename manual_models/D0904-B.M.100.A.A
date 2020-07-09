@@ -1,0 +1,54 @@
+group|neo-nazi|nn
+staged|group|subj
+staged|rally|obj
+rally|toledo|in
+toledo|december 2005|in
+numbers|police|of
+prevented|numbers|subj
+months|violence|nn
+months|two|amount-value
+prevented|months|obj
+months|caused|rel
+caused|months|obj1
+caused|group|subj
+caused|riot|obj2
+caused|when|wha
+announced|they|subj
+announced|plans|obj
+rally|such|pre
+plans|rally|for
+30|more than|num-mod
+people|30|nn
+killed|people|obj
+killed|australia|in
+killed|when|wha
+youths|drunken|mod
+youths|white|mod
+mobs|youths|of
+attacked|mobs|subj
+attacked|people|obj
+appearance|middle eastern|nn
+people|appearance|of
+appearance|beach|at
+beach|sydney in wilmington|in
+race riot commission|state-appointed|mod
+found|race riot commission|subj
+found|that|c
+was|1898|in
+was|part|pred
+effort|successful|mod
+part|effort|of
+supremacists|white|mod
+effort|supremacists|of
+supremacists|disenfranchise|rel
+disenfranchise|supremacist|subj
+disenfranchise|blacks|obj
+some|whom|of
+held|some|subj
+public|high|mod
+office|public|mod
+held|office|obj
+number|unknown|mod
+residents|black|mod
+number|residents|of
+killed|number|obj

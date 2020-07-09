@@ -1,0 +1,76 @@
+woes|michael jackson|gen
+are|many|pred
+arrest|his|gen
+many|arrest|since
+molestation|child|nn
+arrest|molestation|for
+suing|he|subj
+suing|xtrajet|obj
+xtrajet|videotaping|for
+videotaping|he|subj
+conversations|his|gen
+videotaping|conversations|obj
+lawyer|his|gen
+upheaval|lawyer|gen
+lawyer|there|person
+conversations|upheaval|with
+team|his|gen
+team|legal|mod
+upheaval|team|in
+videotaping|since|mod
+since|fired|comp1
+fired|he|subj
+attorneys|two|nn
+fired|attorneys|obj
+one|hired|mod
+one|and|punc
+one|another|conj
+took|one|subj
+took|leave|obj
+attorney|jackson|gen
+attorney|attorneys|nn
+attorney|accused|nn
+attorney|district|mod
+attorney|tom sneddon|person
+attorney|having|of
+having|one|subj
+having|vendetta|obj
+vendetta|him|against
+jackson|prosecutors|nn
+jackson|alleged|mod
+vendetta|plotted|rel
+plotted|vendetta|obj
+plotted|jackson|subj
+leave|kidnap|rel
+kidnap|attorney|subj
+week|his|gen
+week|accuser|nn
+week|in|nn
+week|one|amount-value
+kidnap|week|obj
+was|hit|pred
+lawsuits|two|nn
+lawsuits|non-payment|nn
+hit|lawsuits|with
+video|rapper|gen
+mocked|video|subj
+mocked|jackson|obj
+mocked|and|punc
+mocked|angered|conj
+angered|video|subj
+angered|him|obj
+received|he|subj
+threat|death|nn
+received|threat|obj
+launched|investigators|subj
+launched|search|obj
+search|neverland ranch|of
+neverland ranch|which|whn
+frightened|neverland ranch|subj
+children|his|gen
+frightened|children|obj
+frightened|and|punc
+frightened|took|conj
+took|neverland ranch|subj
+sample|dna|nn
+took|sample|obj

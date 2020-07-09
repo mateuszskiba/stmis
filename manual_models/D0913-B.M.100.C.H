@@ -1,0 +1,59 @@
+made|supreme court|subj
+decisions|two|nn
+decisions|separate|mod
+decisions|5-4|nn
+made|decisions|obj
+decisions|regarding|rel
+regarding|decision|subj
+regarding|displays|obj
+displays|ten commandments|of
+regarding|leaving|mod
+leaving|issue|obj
+issue|decided|rel
+basis|case-by-case|mod
+decided|basis|on
+justice|breyer|person
+basis|cast|rel
+cast|basis|obj
+cast|justice|subj
+vote|critical|mod
+vote|swing|nn
+vote|cases|in
+cases|ruled|rel
+ruled|court|subj
+ruled|that|c
+display|cases|obj
+display|texas|subj
+was|constitutional|pred
+was|because|mod
+because|was|comp1
+was|one|pred
+monuments|17|num
+one|monuments|of
+had|it|subj
+significance|historical|mod
+historical|as|punc
+historical|well|punc
+historical|as|punc
+historical|religious|conj
+had|significance|obj
+been|there|pred
+40|over|num-mod
+years|40|amount-value
+been|years|for
+contrast|challenge|nn
+contrast|in|nn
+years|contrast|without
+displayed|kentucky|in
+displayed|initially|amod
+displayed|commandments|obj
+displayed|alone|mod
+historical documents|accompanying|mod
+added|historical documents|obj
+added|response|in
+response|lawsuit|to
+added|seemingly|mod
+added|hide|mod
+hide|historical document|subj
+motivation|religious|mod
+hide|motivation|obj

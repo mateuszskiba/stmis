@@ -1,0 +1,54 @@
+ex-presidents|four|nn
+ex-presidents|us|nn
+legend|hollywood|nn
+ex-presidents|legend|conj
+fireman|retired|mod
+legend|fireman|conj
+fireman|and|punc
+journalist|star|nn
+journalist|tv|nn
+fireman|journalist|conj
+were|among|pred
+were|31|among
+31|appointed|vrel
+appointed|31|obj
+appointed|december 2004|in
+december 2004|lead|rel
+lead|december 2004|subj
+lead|project|obj
+project|memorial|for
+memorial|victims|to
+september 11 , 2001 ,|attack|pnmod
+center|new york|gen
+center|world|nn
+center|trade|nn
+attack|center|on
+be|directors|pred
+directors|foundation|of
+foundation|construct|rel
+construct|foundation|obj
+construct|that|subj
+architect michael arad|memorial|nn
+design|architect michael arad|gen
+chosen|design|obj
+entries|5,201|num
+chosen|entries|from
+competition|international|mod
+entries|competition|in
+competition|featured|rel
+featured|competition|obj
+featured|it|subj
+pools|two|nn
+pools|reflecting|mod
+pools|surrounded|vrel
+surrounded|pools|obj
+surrounded|by|by-subj
+part|gardens|nn
+surrounded|part|by
+part|$500 million|of
+$500 million|financing|in
+come from|pools|subj
+$816 million|new york|gen
+come from|$816 million|obj
+grants|federal|mod
+$816 million|grants|in

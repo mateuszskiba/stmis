@@ -1,0 +1,64 @@
+dropout|canadian-born|mod
+dropout|high school|nn
+dropout|who|whn
+became|dropout|subj
+became|face|obj
+news|abc|nn
+face|news|of
+news|and|punc
+name|household|mod
+news|name|conj
+name|united states|in
+died|dropout|subj
+died|august 2005|in
+news|67|num
+news|abc|nn
+was|news|pred
+news|stated|vrel
+stated|news|obj
+died|peter|subj
+family|his|gen
+died|family|with
+family|him|around
+said|pain|without
+without|and|punc
+without|in|conj
+without|peace|in
+said|friend|subj
+said|faced|fc
+faced|jennings|subj
+cancer|lung|nn
+faced|cancer|obj
+cancer|"|punc
+cancer|realism|with
+realism|courage|conj
+courage|and|punc
+hope|firm|mod
+courage|hope|conj
+hope|that|c
+be|one|pred
+ones|fortunate|mod
+one|ones|of
+ones|"|punc
+ones|end|in
+was|not|neg
+death|jennings|gen
+was|death|pred
+death|brought|vrel
+brought|death|obj
+brought|end|to
+era|decades-long|mod
+news|television|nn
+era|news|in
+end|dominated|rel
+dominated|end|obj
+dominated|era|subj
+figures|three|nn
+dominated|figures|by
+dan rather|cbs|gen
+figures|dan rather|conj
+tom brokaw|nbc|gen
+dan rather|tom brokaw|conj
+tom brokaw|and|punc
+jennings|abc|gen
+tom brokaw|jennings|conj

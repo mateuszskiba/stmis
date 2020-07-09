@@ -1,0 +1,57 @@
+recommended|2003|in
+panels|two|nn
+panels|expert|mod
+panels|fda|at
+recommended|panels|subj
+recommended|plan|obj1
+recommended|b|obj2
+pill|morning-after|nn
+b|pill|appo
+in|available|mod
+in|over-the-counter|mod
+in|2005|num
+issued|still|mod-before
+issued|not|amod
+issued|fda|subj
+in|ruling|mod
+issued|in|obj1
+hearing|congressional|mod
+issued|hearing|obj2
+senator|hillary rodham clinton|person
+wondered|senator|subj
+wondered|if|c
+was|"|punc
+slide|dangerous|mod
+was|slide|pred
+opinion|political|mod
+slide|opinion|into
+evidence|scientific|mod
+opinion|evidence|as opposed to
+evidence|"|punc
+evidence|absence|in
+action|federal|mod
+absence|action|of
+states|six|nn
+allowed|states|subj
+allowed|pharmacists|obj1
+pharmacists|dispense|rel
+dispense|pharmacist|subj
+dispense|plan|obj
+allowed|b|obj2
+b|prescription|without
+right|religious|mod
+led|right|subj
+led|effort|obj
+led|nationally|mod
+11|at least|num-mod
+states|11|nn
+refuse|states|in
+give|protection|obj1
+protection|pharmacists|to
+give|who|obj2
+refuse|inf|subj
+refuse|fill|fc
+fill|prescriptions|obj1
+prescriptions|plan|for
+fill|b|obj2
+b|religious beliefs|because of

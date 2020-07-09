@@ -1,0 +1,65 @@
+introduced|conclave|obj
+introduced|inconvenience|mod
+inconvenience|conclave|subj
+inconvenience|cardinals|obj
+inconvenience|and|punc
+speed|thus|amod
+inconvenience|speed|conj
+speed|conclave|subj
+speed|up|guest
+speed|process|obj
+today|helps|rel
+helps|today|obj
+helps|it|subj
+process|preserve|rel
+preserve|today|subj
+preserve|secrecy|obj
+pageant|opening|mod
+televised|pageant|obj
+all|then|mod
+media|news|nn
+media|and|punc
+media|audiovisual|conj
+audiovisual|or|punc
+equipment|communication|nn
+audiovisual|equipment|conj
+banned|media|obj
+move|cardinals|subj
+house|st. martha|gen
+move|house|into
+move|and|punc
+move|forbidden|conj
+forbidden|cardinals|obj
+forbidden|talk|mod
+talk|cardinal|subj
+talk|anyone|to
+sworn|not|mod-before
+anyone|sworn|vrel
+sworn|anyone|obj
+in|secrecy|nn
+sworn|in|to
+in|1996|num
+instituted|john paul ii|subj
+rules|new|mod
+instituted|rules|obj
+rules|concerning|rel
+concerning|rule|subj
+concerning|choosing|guest
+choosing|pope|obj
+majority|two-thirds|nn
+until|reached|comp1
+reached|majority|obj
+concerning|is|fc
+ballots|seven|nn
+is|ballots|pred
+day|rest|of
+remains|deadlock|subj
+remains|after|mod
+days|12|num
+after|resort to|comp1
+resort to|voting|subj
+resort to|simple|obj
+bells|majority|nn
+ring|bells|subj
+ring|when|wha
+elected|pope|obj

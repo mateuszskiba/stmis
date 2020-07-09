@@ -1,0 +1,66 @@
+caucus|legislative|mod
+democratic progressive party|ruling|mod
+caucus|democratic progressive party|of
+democratic progressive party|taiwan|of
+condemned|caucus|subj
+condemned|beijing|obj
+beijing|passing|for
+passing|caucus|subj
+law|anti-secession|nn
+passing|law|obj
+law|targeting|rel
+targeting|law|subj
+targeting|taiwan|obj
+taiwan|march 14|on
+statement|its|gen
+march 14|said|rel
+said|statement|subj
+infringes|severely|mod-before
+said|infringes|fc
+infringes|march 14|obj
+infringes|move|subj
+infringes|freedom|upon
+dignity|and|punc
+dignity|security|conj
+security|taiwan|of
+people|dignity|subj
+people|republic|obj
+republic|china|of
+entities|two|nn
+entities|separate|mod
+entities|political|mod
+are|entities|pred
+said|it|subj
+sovereignty|taiwan|gen
+respected|sovereignty|obj
+respected|by|by-subj
+respected|prc|by
+prc|branded|rel
+branded|prc|obj
+branded|white house|subj
+china|unfortunate|mod
+china|"|punc
+adoption|china|gen
+lawmakers|anti-secession|mod
+lawmakers|law|nn
+lawmakers|us|nn
+adoption|lawmakers|of
+expressed|adoption|subj
+expressed|"|punc
+concern|grave|mod
+expressed|concern|obj
+expressed|nations|subj
+expressed|approval|obj
+expressed|including|mod
+including|nation|subj
+including|france|obj
+france|cuba|conj
+cuba|kenya|conj
+kenya|kuwait|conj
+kuwait|cambodia|conj
+cambodia|zambia|conj
+zambia|cameroon|conj
+cameroon|and|punc
+countries|other|mod
+countries|african|nn
+cameroon|countries|conj

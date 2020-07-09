@@ -1,0 +1,66 @@
+announced|jan 18 , 2005|on
+ministry|iraqi|mod
+ministry|justice|nn
+announced|ministry|subj
+announced|that|c
+detainees|six|nn
+detainees|iraqi|mod
+detainees|female|mod
+are|released|pred
+forces|soon.|nn
+forces|u.s.|nn
+said|earlier|amod
+said|forces|subj
+said|holding|fc
+holding|they|subj
+women|eight|nn
+women|iraqi|mod
+total|women|of
+of|and|punc
+of|on|conj
+of|jan 19|on
+holding|stated|fc
+stated|total|subj
+stated|that|c
+released|some|obj
+released|"|punc
+released|in|punc
+released|accordance|punc
+process|normal|mod
+released|process|with
+released|"|punc
+released|but|mod
+but|both|punc
+u.s.|and|punc
+spokesmen|iraqi|mod
+u.s.|spokesmen|conj
+but|denied|comp1
+denied|u.s.|subj
+denied|reacting|fc
+reacting|u.s.|subj
+reacting|kidnappers|to
+john kerry|threats.|nn
+john kerry|sen.|title
+announced|john kerry|subj
+announced|that|c
+had|he|subj
+had|discussions|obj
+president|iraqi|mod
+discussions|president|with
+president|talabani|person
+fate|carroll|gen
+president|fate|on
+fate|and|punc
+mother|her|gen
+fate|mother|conj
+mother|read|vrel
+read|mother|obj1
+read|appeal|obj2
+appeal|cnn|on
+cnn|her|for
+release|daughter|gen
+deadline|72-hour|nn
+release|deadline|as
+cnn|approached|rel
+approached|cnn|obj
+approached|release|subj

@@ -1,0 +1,67 @@
+used|january 2005|in
+workers|rescue|nn
+california|southern|mod
+workers|california|in
+used|workers|subj
+used|snowplows|obj
+snowplows|snowcats|conj
+snowcats|and|punc
+snowcats|snowmobiles|conj
+snowmobiles|free people|to
+free people|highway|from
+highway|where|wha
+snow|sleet|conj
+sleet|rain|conj
+rain|and|punc
+rain|fog|conj
+fog|caused|vrel
+caused|fog|obj1
+logjam|200-vehicle|mod
+caused|logjam|obj2
+day|fourth|mod
+took|day|mod-before
+day|storms|of
+took|snow|subj
+toll|heavy|mod
+took|toll|obj
+took|as|mod
+hillsides|saturated|mod
+as|gave way|comp1
+gave way|hillsides|subj
+mudslides|inundating|rel
+inundating|mudslide|subj
+inundating|houses|obj
+inundating|and|punc
+inundating|closing|conj
+closing|mudslide|subj
+people|highways|nn
+closing|people|obj
+fled|mudslides|subj
+fled|neighborhoods|obj
+fled|up|mod
+eight|coast|nn
+races|nine|nn
+races|horse|nn
+eight|races|of
+races|santa anita|at
+canceled|eight|obj
+time|first|post
+canceled|time|for
+years|10|amount-value
+more|years|nn
+time|more|in
+canceled|than|mod
+houses|6,000|num
+than|were|comp1
+were|without|pred
+were|power|without
+power|los angeles|in
+said|scientist|subj
+seen|not|amod
+said|seen|fc
+seen|los angeles|subj
+intensity|such|pre
+seen|intensity|obj
+downpours|winter|nn
+intensity|downpours|of
+downpours|1889-90|since

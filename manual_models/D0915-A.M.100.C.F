@@ -1,0 +1,65 @@
+days|three|amount-value
+election|sunday|gen
+days|election|before
+polling stations|40|num
+destroyed|already|amod
+destroyed|polling stations|obj
+were|empty|pred
+were|low|guest
+attacks|station|nn
+were|attacks|pred
+attacks|escalated|vrel
+escalated|attacks|obj
+escalated|thursday|mod
+escalated|saturday|through
+offensive|large-scale|mod
+materialized|offensive|subj
+concentrated|violence|obj
+concentrated|sunni|in
+stations|heartland|nn
+attacked|stations|obj
+bombs|homemade|mod
+attacked|bombs|with
+bombs|car|nn
+bombs|mortars|conj
+grenades|rocket-propelled|mod
+mortars|grenades|conj
+grenades|and|punc
+guards|small|mod
+guards|arms|nn
+guards|fire|nn
+guards|two|nn
+guards|police|nn
+grenades|guards|conj
+were|shot|pred
+attacks|worst|nn
+bomb|car|nn
+were|bomb|pred
+bomb|samarra|in
+samarra|that|whn
+hit|samarra|subj
+iraqi|nearby|mod
+patrol|iraqi|mod
+patrol|army|nn
+hit|patrol|obj
+hit|killing|mod
+killing|attack|subj
+killing|seven|obj
+bomber|zarqawi-connected|mod
+bomber|suicide|nn
+bomber|who|whn
+approached|bomber|subj
+approached|khanaqin|obj
+khanaqin|polling|rel
+polling|khanaqin|subj
+polling|station|obj
+polling|and|punc
+polling|set off|conj
+set off|khanaqin|subj
+set off|blast|obj
+blast|that|whn
+killed|blast|subj
+killed|eight|obj
+killed|including|mod
+soldiers|three|nn
+including|soldiers|obj

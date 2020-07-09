@@ -1,0 +1,56 @@
+proposed|hong kong|subj
+bag|plastic|mod
+proposed|bag|obj
+supermarkets|tax|nn
+offer|supermarkets|subj
+incentives|customer|nn
+offer|incentives|obj
+incentives|lessen|rel
+lessen|incentive|subj
+lessen|use|obj
+use|proposes|rel
+proposes|use|obj
+proposes|japan|subj
+proposes|stop|mod
+stop|japan|subj
+stop|retailers|obj
+retailers|giving out|from
+bags|free|mod
+bags|plastic|mod
+giving out|bags|obj1
+production|bangladesh|nn
+production|bans|nn
+giving out|production|obj2
+distribution|and|punc
+distribution|marketing|conj
+shopping|polythene|nn
+marketing|shopping|of
+bags|distribution|subj
+enforcement|strict|mod
+bags|enforcement|obj
+india|law|nn
+state|india|gen
+enforcement|state|of
+manufacture|maharashtra|nn
+manufacture|banned|mod
+state|manufacture|of
+enforcement|sale|conj
+sale|and|punc
+sale|use|conj
+bags|plastic|mod
+use|bags|of
+france|plastics|nn
+france|manufacturing|nn
+france|industry|nn
+france|objects|nn
+use|urged|rel
+urged|france|subj
+public|spurn|rel
+spurn|public|subj
+taiwan|supermarket|nn
+taiwan|plastic|mod
+taiwan|bags|nn
+spurn|taiwan|obj
+urged|banned|fc
+banned|use|obj
+banned|public|subj

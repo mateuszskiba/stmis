@@ -1,0 +1,73 @@
+left|juan alvarez|subj
+car|his|gen
+left|car|obj
+track|railroad|nn
+car|track|on
+set|glendale|nn
+set|ca it|nn
+track|set|in
+set|collision|off
+collision|that|whn
+derailed|collision|subj
+trains|two|nn
+derailed|trains|obj
+derailed|killed|conj
+killed|collision|subj
+10|at least|num-mod
+people|10|nn
+killed|people|obj
+killed|and|punc
+killed|injured|conj
+injured|collision|obj
+200|nearly|num-mod
+witnesses|200|nn
+identified|witnesses|subj
+identified|alvarez|obj
+detained|he|obj
+was|distraught|pred
+was|and|punc
+was|put|conj
+put|he|obj
+put|suicide|on
+police|watch|nn
+police|glendale|nn
+believed|police|subj
+believed|intended|fc
+intended|he|subj
+commit|he|subj
+commit|suicide|obj
+commit|but|punc
+commit|changed|conj
+changed|he|subj
+mind|his|gen
+changed|mind|obj
+intended|taken|fc
+taken|he|obj
+taken|custody|into
+taken|and|punc
+taken|charged|conj
+charged|he|obj
+10|at least|num-mod
+counts|10|nn
+charged|counts|with
+counts|homicide|of
+felt|investigators|subj
+felt|wanted|fc
+wanted|alvarez|subj
+wanted|kill|fc
+kill|alvarez|subj
+kill|himself|obj
+kill|because|mod
+wife|his|gen
+wife|estranged|mod
+because|denied|comp1
+denied|wife|subj
+denied|him|obj1
+denied|visits|obj2
+children|his|gen
+visits|children|with
+held|he|obj
+held|suspicion|on
+suspicion|murder|of
+murder|los angeles|in
+los angeles|bail|without
